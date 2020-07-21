@@ -19,3 +19,4 @@ What i plan on doing:
 - Use javascript to change how many slides to show at a time because you currently have to change that yourself in css and edit the javascript as well
 - Make it draggable for desktops
 - Change the entire code because its not good looking at all
+- Add a blur to the both sides of the slider so the slides dont just disappear
